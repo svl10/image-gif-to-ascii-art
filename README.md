@@ -40,7 +40,7 @@ To Resize an image or gif
 python ascii_art.py path_to_image.jpg --width 20
 
 ```
-Remember to replace 'path_to_image.jpg' or 'path_to_gif.gif' with the actual image/gif path
+Remember to replace `path_to_image.jpg` or `path_to_gif.gif` with the actual image/gif path
 
 Sample
 
