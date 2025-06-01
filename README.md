@@ -37,9 +37,10 @@ python ascii_art.py path_to_gif.gif --gif --animated
 To Resize an image or gif
 
 ```bash
-python ascii_art.py path_to_gif.jpg --width 20
+python ascii_art.py path_to_image.jpg --width 20
 
 ```
+Remember to replace 'path_to_image.jpg' or 'path_to_gif.gif' with the actual image/gif path
 
 Sample
 
